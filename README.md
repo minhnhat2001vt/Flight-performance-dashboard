@@ -14,8 +14,6 @@ The goal of this dashboard is to analyze the performance of the reporting airlin
 - Number of flights flying to each state from each reporting airline using treemap chart.
 ### Yearly average flight delay statistics
 
-2. For the chosen year provide,
-
 - Monthly average carrier delay by reporting airline for the given year.
 - Monthly average weather delay by reporting airline for the given year.
 - Monthly average national air system delay by reporting airline for the given year.
